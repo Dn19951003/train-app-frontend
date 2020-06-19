@@ -1,7 +1,7 @@
 # train-app 
 
 ## Creater Information
-* Daiki Nakashima
+* 2020/06/20 Daiki Nakashima
 * CAC Corporation
 
 
